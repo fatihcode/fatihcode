@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://fatihqaz.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihqaz&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihqaz&layout=compact&theme=radical" />
 </a>
 
 
