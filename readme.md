@@ -2,11 +2,11 @@
 
 <p>
   <a href="https://fatihcode.github.io/">
-    <img align="left" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihcode&layout=compact&theme=radical" />
+    <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihcode&layout=compact&theme=radical" />
   </a>
 
   <a href="https://fatihcode.github.io/">
-    <img align="right"height="175" src="https://github-readme-streak-stats.herokuapp.com?user=fatihcode&theme=dark&date_format=j%20M%5B%20Y%5D" />
+    <img align="right"height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fatihcode&theme=dark&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
 
